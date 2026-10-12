@@ -1,0 +1,6 @@
+{
+  "name": "ApexFit - Gym & Home Workout Trainer",
+  "description": "Personalized gym and home workout routines, video exercise tutorials, personal progress and PR tracking, and session calorie burning with nutritional alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
